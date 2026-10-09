@@ -1,3 +1,4 @@
 .env
 .DS_Store
 scripts/test-*
+tools/bin/
